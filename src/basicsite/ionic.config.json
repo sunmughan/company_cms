@@ -1,0 +1,7 @@
+{
+  "name": "basicsite",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
